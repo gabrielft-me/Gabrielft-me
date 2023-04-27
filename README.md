@@ -10,10 +10,9 @@ Delighted to witness your presence in this tiny boat! ⛵️🌊
   <li><span>🔎💼 </span> I'm actively seeking valuable professional experience into full-stack development</li>
 </ul>
 
-<a href="https://www.linkedin.com/in/gabrielfst/" target="_blank"><img height="35px" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /> </a>
 
-##
-  
+
+## Technologies I use
 <div style="display: inline_block;"> <br>
 <img height="35px" width="45px" style="cursor: none;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
 <img height="35px" width="45px" style="cursor: none;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
@@ -23,3 +22,6 @@ Delighted to witness your presence in this tiny boat! ⛵️🌊
 <img height="35px" width="45px" style="cursor: none;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 <img height="35px" width="45px" style="cursor: none;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
 </div>
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFagundst&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
