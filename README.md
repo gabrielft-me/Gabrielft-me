@@ -2,7 +2,6 @@
 
 Delighted to witness your presence in this tiny boat! ⛵️🌊
 
-
 <ul>
   <li><span>🌎🎯 </span>   My purpose lies in relentlessly pursuing my passion for programming</li>
   <li><span>🙌🏻💡 </span> Ten persistent fingers to bring ideas to fruition</li>
@@ -13,7 +12,7 @@ Delighted to witness your presence in this tiny boat! ⛵️🌊
 
 
 ## Technologies I use
-<div style="display: inline_block;"> <br>
+<div style="display: inline_block;">
 <img height="35px" width="45px" style="cursor: none;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
 <img height="35px" width="45px" style="cursor: none;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
 <img height="35px" width="45px" style="cursor: none;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
@@ -22,6 +21,8 @@ Delighted to witness your presence in this tiny boat! ⛵️🌊
 <img height="35px" width="45px" style="cursor: none;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 <img height="35px" width="45px" style="cursor: none;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
 </div>
+<br>
+<br>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFagundst&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFagundst&layout=compact)](https://github.com/GabrielFagundst/github-readme-stats)
