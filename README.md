@@ -10,6 +10,8 @@ Delighted to witness your presence in this tiny boat! ⛵️🌊
   <li><span>🔎💼 </span> I'm actively seeking valuable professional experience into full-stack development</li>
 </ul>
 
+<a href="https://www.linkedin.com/in/gabrielfst/" target="_blank"><img height="35px" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /> </a>
+
 ##
   
 <div style="display: inline_block;"> <br>
