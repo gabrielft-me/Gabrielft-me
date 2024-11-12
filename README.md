@@ -3,9 +3,9 @@
 Delighted to witness your presence in this tiny boat! ⛵️🌊
 
 <ul>
-  <li><span>🙌🏻💡 </span> Ten persistent fingers to bring ideas to reality</li>
-  <li><span>📖🧑🏻‍💻 </span> I'm presently expanding my knowledge in python and ML</li>
-  <li><span>🔎💼 </span> I'm actively seeking valuable professional experience into full-stack development</li>
+  <li><span>🙌💡 </span> Ten persistent fingers to bring ideas to reality</li>
+  <li><span>🧑🏻‍💻 </span> I'm presently expanding my knowledge in python and ML</li>
+  <li><span>💼 </span> I'm actively seeking valuable professional experience into full-stack development</li>
 </ul>
 
 ## Some Aspirations
