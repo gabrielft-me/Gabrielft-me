@@ -8,8 +8,8 @@ Delighted to witness your presence in this tiny boat! ⛵️🌊
   <li><span>💼 </span> I'm actively seeking valuable professional experience into full-stack development</li>
 </ul>
 
-## Some Aspirations
-<p> Hold on, I am working on it</p>
+## About
+<p> UX designer with 5 years in the makert. Full stack Javascript developer with a SAAS developed</p>
 
 
 
