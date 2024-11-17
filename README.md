@@ -8,26 +8,27 @@ Check out my portfolio for more https://gabrielft.me/
 
 # 💻 Tech Stack:
 
-<p align="left"style="font-size: 14px; line-height: 1.5;">
+<h3>Front-End</h3>
+<p align="left">
   <div href="">
-    <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,git" />
+    <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,git" style="width: 30%;" />
   </div>
 </p>
 
-</br>
 
-<p align="left" >
-  <a href="https://gabrielft.me/maker.html">
-    <img src="https://skillicons.dev/icons?i=linux,raspberrypi,blender,arduino&theme=light" style="width: 80%; />
-  </a>
-</p>
-
-</br>
-
-<p align="left" style="font-size: 14px; line-height: 1.5;">
+<h3>Back-End</h3>
+<p align="left">
   <a href="">
-    <img src="https://skillicons.dev/icons?i=nodejs,py,mysql,nestjs,postgres,docker&theme=light" />
+    <img src="https://skillicons.dev/icons?i=nodejs,py,mysql,nestjs,postgres,docker&theme=light" style="width: 30%;" />
   </a>
 </p>
 
+
+
+<h3>Miscellaneous</h3>
+<p align="left">
+  <a href="https://gabrielft.me/maker.html" style="width: min-content;">
+    <img src="https://skillicons.dev/icons?i=linux,raspberrypi,blender,arduino&theme=light" style="width: 20%;" />
+  </a>
+</p>
 
