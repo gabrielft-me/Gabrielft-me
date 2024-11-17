@@ -26,6 +26,10 @@ Check out my portfolio for more https://gabrielft.me/
 
 
 
+<p align="center">
+  <a href="">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielft-me&layout=compact)](https://github.com/GabrielFagundst/github-readme-stats)
