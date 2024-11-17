@@ -42,4 +42,4 @@ Check out my portfolio for more https://gabrielft.me/
 
 </br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielft-me&hide=html)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielft-me)
