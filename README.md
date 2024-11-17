@@ -12,5 +12,7 @@ Delighted to witness your presence in this tiny boat! ⛵️🌊
 <p> UX designer with 5 years in the makert. Full stack Javascript developer with a SAAS developed</p>
 
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFagundst&layout=compact)](https://github.com/GabrielFagundst/github-readme-stats)
