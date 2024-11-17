@@ -11,7 +11,7 @@ Check out my portfolio for more https://gabrielft.me/
 <h3>Front-End</h3>
 <p align="left">
   <div href="">
-    <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,git" style="width: 30%;" />
+    <img src="https://skillicons.dev/icons?i=js,ts,html,css,tailwind,react,git" style="width: 30%;" />
   </div>
 </p>
 
@@ -32,5 +32,12 @@ Check out my portfolio for more https://gabrielft.me/
   </a>
 </p>
 
+# 📚 Learning:
+
+<p align="left">
+  <a href="https://gabrielft.me/maker.html" style="width: min-content;">
+    <img src="https://skillicons.dev/icons?i=electron,django,pytorch&theme=light" style="width: 20%;" />
+  </a>
+</p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielft-me&hide=html)
