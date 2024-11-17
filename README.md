@@ -13,18 +13,21 @@ Check out my portfolio for more https://gabrielft.me/
 ## About
 <p> UX designer and Full Stack developer with 5 years in the makert</p>
 
-
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,git)](https://skillicons.dev)
+<p align="center">
+  <a href="https://gabrielft.me/maker.html">
+    <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,git" />
+  </a>
+</p>
 
 </br>
 
-[![My Skills](https://skillicons.dev/icons?i=linux,raspberrypi,blender,arduino&theme=light)](https://skillicons.dev)
+<p align="center">
+  <a href="https://gabrielft.me/maker.html">
+    <img src="https://skillicons.dev/icons?i=linux,raspberrypi,blender,arduino&theme=light" />
+  </a>
+</p>
 
 </br>
-
-[![My Skills](https://skillicons.dev/icons?i=nodejs,py,mysql,nestjs,postgres,docker&theme=light)](https://skillicons.dev)
-
-
 
 <p align="center">
   <a href="">
