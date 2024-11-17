@@ -32,3 +32,4 @@ Check out my portfolio for more https://gabrielft.me/
   </a>
 </p>
 
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gabrielft-me)](https://github.com/anuraghazra/github-readme-stats)
