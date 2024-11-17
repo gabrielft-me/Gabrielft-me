@@ -12,7 +12,7 @@ Delighted to witness your presence in this tiny boat! ⛵️🌊
 <p> UX designer with 5 years in the makert. Full stack Javascript developer with a SAAS developed</p>
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,mysql,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,mysql,git&theme=light)](https://skillicons.dev)
 </br>
 
 [![My Skills](https://skillicons.dev/icons?i=linux,raspberrypi,arduino,blender)](https://skillicons.dev)
