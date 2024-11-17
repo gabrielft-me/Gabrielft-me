@@ -16,9 +16,9 @@ Check out my portfolio for more https://gabrielft.me/
 
 </br>
 
-<p align="left" style="font-size: 2px; line-height: 0.8;">
+<p align="left" >
   <a href="https://gabrielft.me/maker.html">
-    <img src="https://skillicons.dev/icons?i=linux,raspberrypi,blender,arduino&theme=light" />
+    <img src="https://skillicons.dev/icons?i=linux,raspberrypi,blender,arduino&theme=light" style="width: 80%; />
   </a>
 </p>
 
