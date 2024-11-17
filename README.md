@@ -36,8 +36,10 @@ Check out my portfolio for more https://gabrielft.me/
 
 <p align="left">
   <a href="https://gabrielft.me/maker.html" style="width: min-content;">
-    <img src="https://skillicons.dev/icons?i=electron,django,pytorch&theme=light" style="width: 20%;" />
+    <img src="https://skillicons.dev/icons?i=electron,django,pytorch&theme=light" style="width: 15%;" />
   </a>
 </p>
+
+</br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielft-me&hide=html)
