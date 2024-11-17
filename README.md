@@ -8,7 +8,7 @@ Check out my portfolio for more https://gabrielft.me/
 
 # 💻 Tech Stack:
 
-<p align="left">
+<p align="left"style="font-size: 14px; line-height: 1.5;">
   <div href="">
     <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,git" />
   </div>
@@ -16,7 +16,7 @@ Check out my portfolio for more https://gabrielft.me/
 
 </br>
 
-<p align="left">
+<p align="left" style="font-size: 14px; line-height: 1.5;">
   <a href="https://gabrielft.me/maker.html">
     <img src="https://skillicons.dev/icons?i=linux,raspberrypi,blender,arduino&theme=light" />
   </a>
@@ -24,7 +24,7 @@ Check out my portfolio for more https://gabrielft.me/
 
 </br>
 
-<p align="left">
+<p align="left" style="font-size: 14px; line-height: 1.5;">
   <a href="">
     <img src="https://skillicons.dev/icons?i=nodejs,py,mysql,nestjs,postgres,docker&theme=light" />
   </a>
