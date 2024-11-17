@@ -10,18 +10,18 @@ Check out my portfolio for more https://gabrielft.me/
   <li><span>💼 </span> I'm actively seeking valuable professional experience into full-stack development</li>
 </ul>
 
-## About
+# 💻 Tech Stack:
 <p> UX designer and Full Stack developer with 5 years in the makert</p>
 
-<p align="center">
-  <a href="https://gabrielft.me/maker.html">
+<p align="left">
+  <div href="">
     <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,git" />
-  </a>
+  </div>
 </p>
 
 </br>
 
-<p align="center">
+<p align="left">
   <a href="https://gabrielft.me/maker.html">
     <img src="https://skillicons.dev/icons?i=linux,raspberrypi,blender,arduino&theme=light" />
   </a>
@@ -29,7 +29,7 @@ Check out my portfolio for more https://gabrielft.me/
 
 </br>
 
-<p align="center">
+<p align="left">
   <a href="">
     <img src="https://skillicons.dev/icons?i=nodejs,py,mysql,nestjs,postgres,docker&theme=light" />
   </a>
