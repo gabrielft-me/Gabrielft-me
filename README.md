@@ -19,7 +19,7 @@ Check out my portfolio for more https://gabrielft.me/
 <h3>Back-End</h3>
 <p align="left">
   <a href="">
-    <img src="https://skillicons.dev/icons?i=nodejs,py,mysql,nestjs,postgres,docker&theme=light" style="width: 30%;" />
+    <img src="https://skillicons.dev/icons?i=java,nodejs,py,mysql,nestjs,postgres,docker&theme=light" style="width: 35%;"/>
   </a>
 </p>
 
