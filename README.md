@@ -12,15 +12,15 @@ Delighted to witness your presence in this tiny boat! ⛵️🌊
 <p> UX designer and Full Stack developer with 5 years in the makert</p>
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,git)](https://skillicons.dev)
 
 </br>
 
-[![My Skills](https://skillicons.dev/icons?i=linux,raspberrypi,arduino,blender&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,raspberrypi,blender,arduino&theme=light)](https://skillicons.dev)
 
 </br>
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,py,mysql,nestjs,postgres,git,docker&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,py,mysql,nestjs,postgres,docker&theme=light)](https://skillicons.dev)
 
 
 
