@@ -1,6 +1,8 @@
-<h1> Ahoy, Fellow Code Adventurer! 🏔️🧗🏻 </h1>  
+<h1> Hi there! 👋 </h1>  
 
 Delighted to witness your presence in this tiny boat! ⛵️🌊
+
+Check out my portfolio for more https://gabrielft.me/
 
 <ul>
   <li><span>🙌💡 </span> Ten persistent fingers to bring ideas to reality</li>
@@ -21,6 +23,7 @@ Delighted to witness your presence in this tiny boat! ⛵️🌊
 </br>
 
 [![My Skills](https://skillicons.dev/icons?i=nodejs,py,mysql,nestjs,postgres,docker&theme=light)](https://skillicons.dev)
+
 
 
 
