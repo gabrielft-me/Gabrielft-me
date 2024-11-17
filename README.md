@@ -28,7 +28,7 @@ Check out my portfolio for more https://gabrielft.me/
 
 <p align="center">
   <a href="">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=nodejs,py,mysql,nestjs,postgres,docker&theme=light" />
   </a>
 </p>
 
