@@ -2,16 +2,11 @@
 
 Delighted to witness your presence in this tiny boat! ⛵️🌊
 
+<span>💼 </span> I'm actively seeking valuable professional experience into full-stack development</li>
+
 Check out my portfolio for more https://gabrielft.me/
 
-<ul>
-  <li><span>🙌💡 </span> Ten persistent fingers to bring ideas to reality</li>
-  <li><span>🧑🏻‍💻 </span> I'm presently expanding my knowledge in python and ML</li>
-  <li><span>💼 </span> I'm actively seeking valuable professional experience into full-stack development</li>
-</ul>
-
 # 💻 Tech Stack:
-<p> UX designer and Full Stack developer with 5 years in the makert</p>
 
 <p align="left">
   <div href="">
