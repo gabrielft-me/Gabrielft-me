@@ -1,11 +1,20 @@
-<h1> Hello World! I'm Gabriel 👋 </h1>  
+<h1> Hi, I'm Gabriel </h1>  
 <h3>I'm publishing the projects I've done in recent years</h3>
 
 <span>💼 </span> I'm actively seeking valuable professional experience into backend development</li>
 
 Check out my portfolio for more https://gabrielft.me/
 
-# 💻 Tech Stack:
+
+<div style="display: flex; align-items: center; gap: 20px;">
+  <a href="https://gabrielft.me/maker.html" style="display: inline-flex;">
+    <img src="https://skillicons.dev/icons?i=arduino&theme=light" style="width: 28px; height: 28px;" />
+  </a>
+  <span>Arduino Projects: https://gabrielft.me/maker.html</span>
+</div>
+
+
+# Tech Stack:
 
 <h3>Front-End</h3>
 <p align="left">
@@ -27,7 +36,7 @@ Check out my portfolio for more https://gabrielft.me/
 <h3>Miscellaneous</h3>
 <p align="left">
   <a href="https://gabrielft.me/maker.html" style="width: min-content;">
-    <img src="https://skillicons.dev/icons?i=linux,raspberrypi,blender,arduino&theme=light" style="width: 20%;" />
+    <img src="https://skillicons.dev/icons?i=linux,raspberrypi,blender&theme=light" style="width: 15%;" />
   </a>
 </p>
 
