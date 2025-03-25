@@ -1,9 +1,7 @@
 <h1> Hello World! I'm Gabriel 👋 </h1>  
 <h3>I'm publishing the projects I've done in recent years</h3>
 
-Delighted to witness your presence in this tiny boat!⛵️
-
-<span>💼 </span> I'm actively seeking valuable professional experience into full-stack development</li>
+<span>💼 </span> I'm actively seeking valuable professional experience into backend development</li>
 
 Check out my portfolio for more https://gabrielft.me/
 
@@ -43,4 +41,5 @@ Check out my portfolio for more https://gabrielft.me/
 
 </br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielft-me)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielft-me&hide=html)
+
