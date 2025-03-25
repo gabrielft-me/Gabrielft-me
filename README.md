@@ -1,8 +1,5 @@
 <h1> Hi, I'm Gabriel </h1>  
-<h3>I'm publishing the projects I've done in recent years</h3>
-
- I'm actively seeking valuable professional experience into backend development</li>
-
+<h2>I'm publishing the projects I've done in recent years</h2>
 
 Check out my portfolio for more https://gabrielft.me/
 
