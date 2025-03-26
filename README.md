@@ -28,7 +28,7 @@ Check out my portfolio https://gabrielft.me/
     <h3> and then, I found myself in </h3>
     <p align="left">
       <a href="">
-        <img src="https://skillicons.dev/icons?i=nodejs,ts,expressjs,nextjs,jest&theme=light" style="height: 42px;"/>
+        <img src="https://skillicons.dev/icons?i=nodejs,ts,expressjs,nextjs,jest&theme=light" style="height: 40px;"/>
       </a>
     </p>
   </div>
@@ -37,7 +37,7 @@ Check out my portfolio https://gabrielft.me/
 <h3> I also do well with </h3>
 <p align="left">
   <a href="">
-    <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres,mongodb,supabase&theme=light" style="height: 42px;"/>
+    <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres,mongodb,supabase&theme=light" style="height: 44px;"/>
   </a>
 </p>
 
