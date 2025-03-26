@@ -19,7 +19,7 @@ Check out my portfolio for more https://gabrielft.me/
     <h3 </h3>
     <p align="left">
       <div href="">
-        <img src="https://skillicons.dev/icons?i=js,html,css,tailwind,react,ts" style="height: 48px;" />
+        <img src="https://skillicons.dev/icons?i=js,html,css,tailwind,react,ts" style="height: 38px;" />
       </div>
     </p>
   </div>
@@ -28,7 +28,7 @@ Check out my portfolio for more https://gabrielft.me/
     <h3></h3>
     <p align="left">
       <a href="">
-        <img src="https://skillicons.dev/icons?i=nodejs,expressjs,nextjs&theme=light" style="height: 48px;"/>
+        <img src="https://skillicons.dev/icons?i=nodejs,expressjs,nextjs&theme=light" style="height: 38px;"/>
       </a>
     </p>
   </div>
@@ -37,14 +37,14 @@ Check out my portfolio for more https://gabrielft.me/
 <h3> </h3>
 <p align="left">
   <a href="">
-    <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres,mongodb,supabase&theme=light" style="height: 48px;"/>
+    <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres,mongodb,supabase&theme=light" style="height: 38px;"/>
   </a>
 </p>
 
 <h3>Miscellaneous</h3>
 <p align="left">
   <a href="https://gabrielft.me/maker.html" style="width: min-content;">
-    <img src="https://skillicons.dev/icons?i=git,docker,linux,raspberrypi,blender&theme=light" style="height: 48px;" />
+    <img src="https://skillicons.dev/icons?i=git,docker,linux,raspberrypi,blender&theme=light" style="height: 38px;" />
   </a>
 </p>
 
