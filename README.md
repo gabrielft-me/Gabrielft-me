@@ -25,7 +25,7 @@ Check out my portfolio https://gabrielft.me/
   </div>
   
   <div> 
-    <h3> and then, moved to </h3>
+    <h3> and then, I found myself in </h3>
     <p align="left">
       <a href="">
         <img src="https://skillicons.dev/icons?i=nodejs,ts,expressjs,nextjs,jest&theme=light" style="height: 42px;"/>
@@ -48,7 +48,7 @@ Check out my portfolio https://gabrielft.me/
   </a>
 </p>
 
-# 📚 Learning:
+<h3>Learning</h3>
 
 <p align="left">
   <a href="https://gabrielft.me/maker.html" style="width: min-content;">
