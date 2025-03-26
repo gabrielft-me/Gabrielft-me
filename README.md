@@ -1,5 +1,5 @@
-<h1> Hi, I'm Gabriel </h1>  
-<h3> Well, I'm just a backend dev who can do a reasonably good UX design, did some IoT arduino for fun, and that's it</h3>
+<h1> Hi, this is Gabriel </h1>  
+<h3> A backend developer with a strong grasp of UX and some IoT/Arduino projects on the side </h3>
 
 Check out my portfolio https://gabrielft.me/
 
