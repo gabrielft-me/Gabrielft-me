@@ -10,12 +10,13 @@ Check out my portfolio https://gabrielft.me/
   </a>
   <span>Arduino Projects: https://gabrielft.me/maker.html</span>
 </div>
+</br>
 
 <div style="display: flex; align-items: center; gap: 20px;">
   <a href="https://gabrielft.me/maker.html" style="display: inline-flex;">
     <img src="https://skillicons.dev/icons?i=figma&theme=light" style="width: 28px; height: 28px;" />
   </a>
-  <span>Arduino Projects: https://dribbble.com/gabrielft</span>
+  <span>Figma Designs: https://dribbble.com/gabrielft</span>
 </div>
 
 
