@@ -25,7 +25,7 @@ Check out my portfolio https://gabrielft.me/
   </div>
   
   <div> 
-    <h3> and then, </h3>
+    <h3> and then, moved to </h3>
     <p align="left">
       <a href="">
         <img src="https://skillicons.dev/icons?i=nodejs,ts,expressjs,nextjs,jest&theme=light" style="height: 42px;"/>
@@ -34,7 +34,7 @@ Check out my portfolio https://gabrielft.me/
   </div>
 </div>
 
-<h3> I also do well </h3>
+<h3> I also do well with </h3>
 <p align="left">
   <a href="">
     <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres,mongodb,supabase&theme=light" style="height: 42px;"/>
