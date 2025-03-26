@@ -16,7 +16,7 @@ Check out my portfolio https://gabrielft.me/
 
 <div style="display: block; flex-direction: row;">
   <div>
-    <h3> Started with </h3>
+    <h3> I started with </h3>
     <p align="left">
       <div href="">
         <img src="https://skillicons.dev/icons?i=js,html,css,tailwind,react" style="height: 42px;" />
