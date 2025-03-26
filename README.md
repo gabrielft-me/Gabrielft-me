@@ -19,7 +19,7 @@ Check out my portfolio https://gabrielft.me/
     <h3> I started with </h3>
     <p align="left">
       <div href="">
-        <img src="https://skillicons.dev/icons?i=js,html,css,tailwind,react" style="height: 42px;" />
+        <img src="https://skillicons.dev/icons?i=js,html,css,tailwind,react" style="height: 40px;" />
       </div>
     </p>
   </div>
@@ -28,7 +28,7 @@ Check out my portfolio https://gabrielft.me/
     <h3> and then, I found myself in </h3>
     <p align="left">
       <a href="">
-        <img src="https://skillicons.dev/icons?i=nodejs,ts,expressjs,nextjs,jest&theme=light" style="height: 40px;"/>
+        <img src="https://skillicons.dev/icons?i=nodejs,ts,expressjs,nextjs,jest&theme=light" style="height: 44px;"/>
       </a>
     </p>
   </div>
