@@ -33,7 +33,7 @@ Check out my portfolio https://gabrielft.me/
   </div>
   
   <div> 
-    <h3> and then, I found myself in </h3>
+    <h3> Then, I found myself using </h3>
     <p align="left">
       <a href="">
         <img src="https://skillicons.dev/icons?i=nodejs,ts,expressjs,nextjs,jest&theme=light" style="height: 44px;"/>
