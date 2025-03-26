@@ -1,7 +1,7 @@
 <h1> Hi, I'm Gabriel </h1>  
-Well, I'm just a backend dev who can deal with UX design, did some arduino for fun and that's it
+<h3> Well, I'm just a backend dev who can deal with UX design, did some arduino for fun and that's it</h3>
 
-Check out my portfolio for more https://gabrielft.me/
+Check out my portfolio https://gabrielft.me/
 
 
 <div style="display: flex; align-items: center; gap: 20px;">
