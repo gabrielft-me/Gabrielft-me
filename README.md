@@ -16,25 +16,25 @@ Check out my portfolio https://gabrielft.me/
 
 <div style="display: block; flex-direction: row;">
   <div>
-    <h3 </h3>
+    <h3> Frontend </h3>
     <p align="left">
       <div href="">
-        <img src="https://skillicons.dev/icons?i=js,html,css,tailwind,react,ts" style="height: 42px;" />
+        <img src="https://skillicons.dev/icons?i=js,html,css,tailwind,react" style="height: 42px;" />
       </div>
     </p>
   </div>
   
   <div> 
-    <h3></h3>
+    <h3> Backend</h3>
     <p align="left">
       <a href="">
-        <img src="https://skillicons.dev/icons?i=nodejs,expressjs,nextjs&theme=light" style="height: 42px;"/>
+        <img src="https://skillicons.dev/icons?i=nodejs,ts,expressjs,nextjs&theme=light" style="height: 42px;"/>
       </a>
     </p>
   </div>
 </div>
 
-<h3> </h3>
+<h3> Dt Bases </h3>
 <p align="left">
   <a href="">
     <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres,mongodb,supabase&theme=light" style="height: 42px;"/>
