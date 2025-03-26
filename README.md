@@ -28,7 +28,7 @@ Check out my portfolio https://gabrielft.me/
     <h3> Backend</h3>
     <p align="left">
       <a href="">
-        <img src="https://skillicons.dev/icons?i=nodejs,ts,expressjs,nextjs&theme=light" style="height: 42px;"/>
+        <img src="https://skillicons.dev/icons?i=nodejs,ts,expressjs,nextjs,jest&theme=light" style="height: 42px;"/>
       </a>
     </p>
   </div>
