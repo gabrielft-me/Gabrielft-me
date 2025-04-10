@@ -66,5 +66,3 @@ Check out my portfolio https://gabrielft.me/
 
 </br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielft-me&hide=html)
-
