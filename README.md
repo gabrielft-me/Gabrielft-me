@@ -16,7 +16,8 @@ I coded this website from scratch without frameworks: https://gabrielft.me/
   <a href="https://gabrielft.me/maker.html" style="display: inline-flex;">
     <img src="https://skillicons.dev/icons?i=figma&theme=light" style="width: 28px; height: 28px;" />
   </a>
-  <span>Figma Designs: https://dribbble.com/gabrielft</span>
+  
+  <span>Figma Designs: [https://dribbble.com/gabrielft](https://dribbble.com/gabrielft)</span>
 </div>
 
 
