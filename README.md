@@ -1,7 +1,7 @@
 <h1> Hi, this is Gabriel </h1>  
 <h3> A backend developer with a strong grasp of UX and some IoT/Arduino projects on the side </h3>
 
-Check out my portfolio https://gabrielft.me/
+I coded this website from scratch without frameworks: https://gabrielft.me/
 
 
 <div style="display: flex; align-items: center; gap: 20px;">
